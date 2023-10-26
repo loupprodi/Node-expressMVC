@@ -1,0 +1,8 @@
+20231023	13:35:33	493f3694-57ba-43a2-9cdc-2b5b99f343da	Error: ENOENT: no such file or directory, stat '/home/spartan/Área de Trabalho/sandbox/node/nodeExpress/views/404.html'
+20231023	13:36:11	6acf80af-1162-4e1f-90cd-cc35d47d8522	Error: ENOENT: no such file or directory, stat '/home/spartan/Área de Trabalho/sandbox/node/nodeExpress/views/404.html'
+20231023	13:36:20	5f3ba2a5-2f31-4011-b47e-0adf67dcdf4c	Error: ENOENT: no such file or directory, stat '/home/spartan/Área de Trabalho/sandbox/node/nodeExpress/views/404.html'
+20231024	23:43:53	821e0085-9890-4f31-850c-ecbaa1adc683	ReferenceError: employeeId is not defined
+20231024	23:43:58	4bef4c42-4e8b-4333-8cf9-c82288aad858	ReferenceError: employeeId is not defined
+20231024	23:45:03	0253753a-fc89-4eba-a7ca-ae823cdcd363	ReferenceError: employeeId is not defined
+20231024	23:45:37	63cea821-af17-4bc1-921d-e9d3d82eaf8b	ReferenceError: employeeId is not defined
+20231024	23:47:19	c69927bb-9f4a-442a-b5ce-522f38995efd	ReferenceError: employeeId is not defined
